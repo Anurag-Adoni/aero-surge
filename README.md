@@ -1,6 +1,6 @@
 # Hello,I am Anurag Nag Adoni !  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![image](https://user-images.githubusercontent.com/67970026/132990270-de18c16a-6ac5-43a5-a16f-2feb0ac427d8.png)
+
 
 
   
